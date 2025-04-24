@@ -1,0 +1,12 @@
+[
+  {
+    "name": "البرمجة",
+    "coefficient": 4,
+    "semester": "2"
+  },
+  {
+    "name": "قواعد البيانات",
+    "coefficient": 3,
+    "semester": "2"
+  }
+]

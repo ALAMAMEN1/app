@@ -1,0 +1,12 @@
+[
+  {
+    "name": "الرياضيات",
+    "coefficient": 4,
+    "semester": "1"
+  },
+  {
+    "name": "الفيزياء",
+    "coefficient": 3,
+    "semester": "1"
+  }
+]
